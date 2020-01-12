@@ -1,5 +1,5 @@
 # NLP-SpellCorrection
-##### This is the coursework of NLP, in which a Noisy Channel Model is implemented to solve the spell correction problem. Please see spell_correction.pdf for detailed desciptions.
+This is the coursework of NLP, in which a Noisy Channel Model is implemented to solve the spell correction problem. Please see spell_correction.pdf for detailed desciptions.
 
 #### About the Files:
 `testdata.txt` is a file containing 1000 sentences, within which there are 1 to 3 misspellings.  
